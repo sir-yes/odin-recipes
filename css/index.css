@@ -1,0 +1,15 @@
+div {
+    color: black;
+    font-weight: bold;
+}
+
+.working {
+    color: red;
+    font-style: bold;
+}
+
+.purple {
+    color: purple;
+    font-style: italic;
+    font-size: large;
+}
