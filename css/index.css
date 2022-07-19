@@ -1,5 +1,5 @@
 * {
-    border: 2px solid red;
+    border: 2px dotted red;
 }
 
 div {
@@ -7,6 +7,7 @@ div {
     font-weight: bold;
     padding-left: 300px;
     padding-right: 240px;
+    border: 2px solid orange;
 }
 
 .working {
@@ -14,4 +15,25 @@ div {
     font-style: bold;
     margin-left: 20px;
     margin-right: 400px;
+    border: 2px solid green;
+}
+
+body {
+    border: 2px solid blue;
+}
+
+h1 {
+    border: 2px solid black;
+}
+
+html {
+    border: 2px solid brown;
+}
+
+a {
+    border: 2px solid purple;
+}
+
+head {
+    border: 2px solid burlywood;
 }
