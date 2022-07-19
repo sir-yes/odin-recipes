@@ -1,15 +1,15 @@
+* {
+    border: 2px solid red;
+}
+
 div {
     color: black;
     font-weight: bold;
+    padding-left: 50px;
 }
 
 .working {
     color: black;
     font-style: bold;
-}
-
-.purple {
-    color: purple;
-    font-style: italic;
-    font-size: large;
+    margin-left: 50px;
 }
