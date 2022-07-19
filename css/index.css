@@ -5,11 +5,13 @@
 div {
     color: black;
     font-weight: bold;
-    padding-left: 50px;
+    padding-left: 300px;
+    padding-right: 240px;
 }
 
 .working {
     color: black;
     font-style: bold;
-    margin-left: 50px;
+    margin-left: 20px;
+    margin-right: 400px;
 }
